@@ -28,11 +28,8 @@ Full-Stack Software Engineer with more than 6 years of programming experience. E
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=kevinmontana&icon=0&color=1)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KaoruxKaidot) 
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KaoruxKaidot) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
