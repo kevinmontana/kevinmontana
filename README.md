@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&width=435&lines=Full+Stack;Css3;Html5;JS;PHP;Python;Ruby;AWS;CloudFlare;CloudWays;Firebase;DigitalOcean;Bootstrap;Chart+Js;Express+js;Expo;Flutter;Jquery;JWT;Laravel;NPM;Nestjs;Next;Node+js;android;Sass;Socket+io;Symfony;Apache;Nginx;Mysql;Postgres;MariaDB;Microsoft+SQL+Server;redis;Adobeilustrator;adobephotoshop;Canva;Adobe+Dreamweaver;Adobe+XD;Linux;Postman;Swagger)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="350" src="https://github.com/kevinmontana/kevinmontana/blob/main/full-stack-development.gif">
+<img align="right" alt="Coding" width="550" src="https://github.com/kevinmontana/kevinmontana/blob/main/full-stack-development.gif">
 
 - 🔭 I’m currently working on **Web Projects**
 
