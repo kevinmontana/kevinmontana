@@ -1,9 +1,9 @@
-![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+![Banner](https://github.com/kevinmontana/kevinmontana/blob/main/banner.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinmontana&label=Profile%20views&color=0e75b6&style=flat" alt="kevinmontana" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&width=435&lines=Web+Developer+;Programmer;Full+Stack)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="350" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img align="right" alt="Coding" width="350" src="https://github.com/kevinmontana/kevinmontana/blob/main/full-stack-development.gif">
 
 - 🔭 I’m currently working on **Web Projects**
 
